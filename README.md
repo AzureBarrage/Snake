@@ -4,7 +4,7 @@ Snake Game:
 
 Dependencies:
 
-  Python 3.x
+  Python 3.x, 
   Pygame
 
 
